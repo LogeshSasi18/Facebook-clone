@@ -1,0 +1,70 @@
+
+.pn-container{
+    width: 370px;
+    max-width: 100%;
+    height: 500px;
+    background-color: #fff;
+    position: absolute;
+    top: 55px;
+    right: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.103);
+    box-shadow: 1px 1px 5px rgba(94, 94, 94, 0.151);
+    border-radius: 15px;
+    overflow: auto;
+    z-index: 201;
+}
+.pn-grid{
+    padding: 10px 10px;
+}
+.pn-h1{
+    font-size: 27px;
+}
+.faEllipsis-top{
+    margin-top: 15px;
+}
+.second-pn{
+    padding: 10px 5px;
+}
+.pn-h3{
+    margin-right: 10px;
+    font-size: 15px;
+    padding: 5px 15px;
+    border-radius: 50%;
+    color: #0084ff;
+    background-color: rgb(228, 228, 247);
+    cursor: pointer;
+}
+.pn-h3:hover{
+    background-color: #f0f2f0;
+}
+.pn-dot{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #0084ff;
+}
+.pn-img{
+    border-radius: 50%;
+    margin-top: 15px;
+}
+.pn-p1{
+    font-size: 15px;
+    padding: 15px 40px 15px 15px;
+}
+.pn-p2{
+    font-size: 15px;
+}
+.pn-fs{
+    font-size: 15px;
+    padding: 5px 15px;
+}
+.notify-data{
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.notify-data:hover{
+    background-color: #f0f2f0;
+    border-radius: 10px;
+}
